@@ -1,0 +1,5 @@
+# My Data Science Projects
+From the Skillfactory Data Science Course
+
+## Project
+* [Project 0. Game: guess the number](https://github.com/SW-Vyacheslav/sf_data_science/tree/master/guess-number-task)
